@@ -13,7 +13,7 @@ Check out the game on Unity Play: [Play Now](https://play.unity.com/mg/other/bui
 ![Screenshot 2024-03-20 142739](https://github.com/diegogurr/RaindropsRemake/assets/15808019/f7ef812b-5899-4d45-8aec-00787cda4c5e)
 
 # Credits
-All sprites were downloaded from [Freepik](https://www.freepik.com/)
+All sprites were downloaded from [Freepik](https://www.freepik.com/)  
 All sounds were downloaded from [Freesound](https://www.freesound.org/)
 
 # Next Goals
