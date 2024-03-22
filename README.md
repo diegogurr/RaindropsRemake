@@ -1,6 +1,12 @@
 # Project Overview
 This project was developed as an exercise for Digital Bros Academy. The goal was to recreate 'Raindrops' by Lumosity, a brain-training game where players solve mathematical equations displayed on falling raindrops before they reach the ground.
 
+# Project Setup
+After cloning the repository, open Unity Hub and click on add, then select the folder RaindropsRemake.
+> [!IMPORTANT]  
+> If you see errors opening the project, is because TextMeshPro is missing.
+> In Unity go to Window > Package Manager > Select Unity Registry packages > Search for TextMeshPro > Download and import
+
 # Features
 * Improving difficulty over time
 * Different game modes: normal, binary, nightmare
